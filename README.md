@@ -1,5 +1,4 @@
-# laravel-coding-challenge
- A laravel coding challenge for Movie Rest API's
+# Laravel and Vue3 Preset Installation
 
 ## Frameworks and Libraries
 Laravel 8, Vue 3, Vuex, Vue Router, Axios
